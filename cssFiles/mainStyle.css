@@ -10,8 +10,6 @@ a {
   text-decoration: none;
 }
 
-
-
 /* Header */
 .header {
   display: flex;
@@ -497,4 +495,3 @@ a {
     margin-bottom: 20px;
   }
 }
-
